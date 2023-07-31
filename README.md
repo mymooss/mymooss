@@ -4,7 +4,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmymooss&count_bg=%23F3B1FD&title_bg=%23BAFFFD&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 STACKS</h1>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" height="24"/> </a> <!--React -->
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><!--Node-->
@@ -24,7 +24,7 @@
 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="24"/> </a> <!-- Github -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="24"/> </a> <!-- Figma -->
-
+</div>
 </div>
 
 <!--https://simpleicons.org/-->
