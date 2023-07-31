@@ -14,7 +14,7 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/> </a> <!-- MySQL -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Firebase-2C384A?style=for-the-badge&logo=firebase" alt="firebase" height="24"/> </a> <!-- Firebase -->
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><!--django-->
+<a href="https://www.djangoproject.com/" target="_blank" rel ="noreferrer"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><!--django-->
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="dart" height="24"/> </a> <!-- YOLO -->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" height="24"/> </a> <!-- OpenCV -->
