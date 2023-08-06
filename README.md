@@ -7,14 +7,14 @@
 <div align=center><h1>📚 STACKS</h1>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" height="24"/> </a> <!--React -->
-<a href="https://nodejs.org/ko" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><!--Node-->
+<a href="https://nodejs.org/ko" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node" height="24"><!--Node-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="24"/> </a> <!-- JavaScript -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5" height="24"/> </a> <!-- HTML -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3" alt="css3" height="24"/> </a> <!-- CSS -->
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/> </a> <!-- MySQL -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Firebase-2C384A?style=for-the-badge&logo=firebase" alt="firebase" height="24"/> </a> <!-- Firebase -->
-<a href="https://www.djangoproject.com/" target="_blank" rel ="noreferrer"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><!--django-->
+<a href="https://www.djangoproject.com/" target="_blank" rel ="noreferrer"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="24"><!--django-->
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="dart" height="24"/> </a> <!-- YOLO -->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" height="24"/> </a> <!-- OpenCV -->
